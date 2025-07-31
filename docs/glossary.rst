@@ -24,3 +24,14 @@ type/ttype:
     The tokens in the phrase ``'For _more_!' said Mr. Limbkins.`` would have types ``for``, ``more``, ``said``, ``mr``, ``limbkins``.
 
     See :mod:`clic.tokenizer`.
+
+analysis tree (FlexiConc):
+    An analysis tree is the research documentation that is generated while analysing concordances in FlexiConc. The tree can be saved and imported as a JSON file.
+
+algorithm (FlexiConc):
+    An algorithm is an operation that you apply to a concordance in FlexiConc mode.
+    To sort your concordance in alphabetical order, you apply the algorithm ``Select by Token-Level String Attribute`` and configure the settings.
+
+annotation (FlexiConc):
+    Annotation is additional information that you can add to a concordance in FlexiConc mode.
+    Running ``Annotate with spaCy POS tags`` adds part-of-speech tags to all tokens in your concordance line. You can then use the algorithm ``Select by Token-Level String Attribute`` to select concordance lines with an adjective to the left of the node.
