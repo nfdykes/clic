@@ -1,7 +1,7 @@
 Introduction
 ============
 
-The CLiC web app (http://clic.bham.ac.uk) has been developed
+The CLiC web app (http://clic-fiction.org) has been developed
 as part of the CLiC Dickens
 project (see [CLiC_project_page]_), which demonstrates
 through corpus stylistics how computer-assisted methods can be used to
@@ -9,6 +9,8 @@ study literary texts and lead to new insights into how readers perceive
 fictional characters. CLiC Dickens started at the University of
 Nottingham in 2013; it is now a collaborative project hosted at the
 University of Birmingham.
+
+[TODO] RC21 funding?
 
 *The CLiC Dickens project is funded by the Arts and Humanities Research
 Council, grant reference AH/P504634/1. Project team: Prof. Michaela Mahlberg, Prof. Peter Stockwell, Viola
@@ -19,5 +21,5 @@ Wiegand*
 We are grateful to colleagues who have commented on previous versions of this guide and/or the CLiC interface: Anna
 Cermakova, Emma Curry, Elizabeth Kelly, Lorenzo Mastropierro and Pete Orford.
 
-The user guide is a work in progress. Please get in touch via clic@contacts.birmingham.ac.uk if you have further questions or suggestions for
+The user guide is a work in progress. Please get in touch via [TODO] if you have further questions or suggestions for
 improvement.
