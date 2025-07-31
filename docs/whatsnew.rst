@@ -1,6 +1,7 @@
 What's new in this version of CLiC
 ==================================
 
+
 There have been major changes to the back-end as the underlying database infrastructure has been replaced. For further technical details of this replacement, please refer to the [GitHub_CLiC]_ repository. The focus of this user guide is the CLiC interface.  Due to the changes of the database, some of the basic functions of CLiC – like the concordance – will give slightly different results.
 
 The main changes from previous versions to CLiC 2.0 that users should be aware of are:
@@ -59,3 +60,7 @@ The text tab shows full book contents (to replace the chapter-by-chapter selecti
 The Counts tab shows an interactive overview of the corpora, with word counts within corpora, books and subsets.
 
 CLiC v2.1 adds features to improve the accessibility of the website and share more about the website's policies with the users.
+
+* **New FlexiConc tab**
+
+CLiC v2.3 integrates FlexiConc, a Python library for concordance analysis. (https://pypi.org/project/FlexiConc/). On running a query in the FlexiConc tab, you can apply various different algorithms to the concordance results in order to sort, rank, group and select concordance lines. 
