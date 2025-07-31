@@ -12,3 +12,4 @@ CLiC analysis tabs
    clicanalysis/keywords
    clicanalysis/counts
    clicanalysis/texts
+   clicanalysis/flexiconc
