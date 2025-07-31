@@ -8,6 +8,6 @@ We aim to make the CLiC website as easy to use and as accessible as possible for
 * navigate the site using just a keyboard or using speech recognition software
 * listen to the content using a screen reader
 
-If you wish to contact us about the accessibility of the CLiC website please email us at clic@contacts.birmingham.ac.uk
+If you wish to contact us about the accessibility of the CLiC website please email us at [TODO]
 
-This statement was last reviewed on 9th July 2020. 
+This statement was last reviewed on [TODO]
