@@ -5,6 +5,7 @@
 
 .. [CLiC_KWICGrouper_video] Wiegand, V. & Guglielmi, A. (2017, June 22). Introduction to KWICGrouper video. https://blog.bham.ac.uk/clic-dickens/2017/06/22/video-introducing-the-clic-kwicgrouper-function-to-group-concordance-lines/
 .. [CLiC_project_page] http://birmingham.ac.uk/clic
+..[FlexiConc] https://pypi.org/project/FlexiConc/
 .. [GitHub_CLiC] https://github.com/mahlberg-lab/clic
 .. [GitHub_corpora] https://github.com/mahlberg-lab/corpora
 .. [GitHub_corpora_initial_ArTs] https://github.com/mahlberg-lab/corpora/tree/026a8436bf9ea3282d283a05725c0153e023d74c/Other
